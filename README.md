@@ -6,7 +6,7 @@
 Esse é um projeto web de uma pokédex para exibir alguns pokémons.
 
 ## 🏺 Tecnologias
-Esse projeto foi desenvolvido durante a Semana do Zero ao Programador Contratado as seguintes tecnologias:
+Esse projeto foi desenvolvido durante a Semana do Zero ao Programador Contratado com as seguintes tecnologias:
 
 - HTML
 - CSS
